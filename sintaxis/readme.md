@@ -1,5 +1,7 @@
 # Sintaxis de Dart
 
+-   [Tipado dinamico](#tipado_dinamico)
+
 📍 _los ejemplos de codigo funcional se alojaran en este [link codigo](https://repl.it/repls/folder/introduccion-dart) los ejemplos se tendran en repl.it y medio de las guias se podra encontrar link a ejemplos funcionales_
 
 -   Nota: para ejecutar el codigo de dart es necesario que este siempre se encuentre dentro de la funcion `main`.
@@ -61,6 +63,8 @@ void main() {
     print('${nameVar} es tipo ${nameVar.runtimeType}');
 }
 ```
+
+<a name="tipado_dinamico"></a>
 
 ### Tipado dinamico
 
