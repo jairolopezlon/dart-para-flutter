@@ -13,6 +13,7 @@ void main(){
 ```
 
 En dart, todas las sentencias terminan en punto y coma ";", excetuando las clases, metodos, funciones, condicional if, ciclo for.
+
 <a name="menu"></a>
 
 ## Menu
@@ -34,6 +35,8 @@ En dart, todas las sentencias terminan en punto y coma ";", excetuando las clase
 
 Dart puede ser de tipado fuerte, debil o dinamico, pero por buena practica es recomendable mantenerlo con tipado fuerte.
 
+<a name="tipado_debil"></a>
+
 ### Tipado debil
 
 _[volver al menu 🔙](#menu)_
@@ -49,7 +52,7 @@ con la declaracion por medio de `var` sucede algo curioso a tener en cuenta; si 
 
 pero se presenta una situacion diferente cuando se usa `var` para declarar y asignar valor inicial, en este caso la variable tomara el tipo del primer valor que se asigne, y no permitira tener tipado dinamico.
 
--   [Replit - tipado debil con error](https://repl.it/@JairoLopez2/tipado-debil-error#main.dart)
+-   [💻Replit - tipado debil con error](https://repl.it/@JairoLopez2/tipado-debil-error#main.dart)
 
 ```dart
 void main() {
@@ -64,7 +67,7 @@ void main() {
 }
 ```
 
--   [Replit - tipado debil sin error](https://repl.it/@JairoLopez2/tipado-debil)
+-   [💻Replit - tipado debil sin error](https://repl.it/@JairoLopez2/tipado-debil)
 
 ```dart
 void main() {
@@ -90,7 +93,7 @@ las varibles con tipado dinamico, pueden ser asignadas y reasignadas con cualqie
 
 este tipo de declaracion nos sirve para declarar una variable que en el futuro pueda que cambie de tipo, pero como se indica en un inicio, por buena practicas, es mejor preferir el tipado fuerte, y desde la logica visualizar esos casos y manejarlos de un modo diferente
 
--   [Replit - tipado dinamico](https://repl.it/@JairoLopez2/tipado-dinamico#main.dart)
+-   [💻Replit - tipado dinamico](https://repl.it/@JairoLopez2/tipado-dinamico#main.dart)
 
 ```dart
 void main() {
@@ -105,42 +108,62 @@ void main() {
 }
 ```
 
-### Tipado fuerte [](#tipado_fuerte)
+<a name="tipado_fuerte"></a>
+
+### Tipado fuerte
 
 _[volver al menu 🔙](#menu)_
 
-## Tipo de datos[](#tipo_datos)
+<a name="tipo_datos"></a>
+
+## Tipo de datos
 
 _[volver al menu 🔙](#menu)_
 
-## Estructura de datos[](#estructura_datos)
+<a name="estructura_datos"></a>
+
+## Estructura de datos
 
 _[volver al menu 🔙](#menu)_
 
-## Funciones[](#funciones)
+<a name="funciones"></a>
+
+## Funciones
 
 _[volver al menu 🔙](#menu)_
 
-## Funciones ejecucion[](#funciones_ejecucion)
+<a name="funciones_ejecucion"></a>
+
+## Funciones ejecucion
 
 _[volver al menu 🔙](#menu)_
 
-## Funciones de control de flujo[](#control_flujo)
+<a name="control_flujo"></a>
+
+## Funciones de control de flujo
 
 _[volver al menu 🔙](#menu)_
 
-## Condicional IF[](#condicional_if)
+<a name="condicional_if"></a>
+
+## Condicional IF
 
 _[volver al menu 🔙](#menu)_
 
-## Ciclo FOR[](#ciclo_for)
+<a name="ciclo_for"></a>
+
+## Ciclo FOR
 
 _[volver al menu 🔙](#menu)_
 
-## Clases, declaracion [](#clases)
+<a name="clases"></a>
+
+## Clases, declaracion
 
 _[volver al menu 🔙](#menu)_
 
-## Clases, Instancia [](#clases_instancia)
+<a name="clases_instancia"></a>
+
+## Clases, Instancia
 
 _[volver al menu 🔙](#menu)_
